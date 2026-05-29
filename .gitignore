@@ -1,0 +1,41 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Native extension build outputs
+build/
+dist/
+*.egg-info/
+*.so
+*.o
+*.a
+*.obj
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Local data and runtime outputs
+data/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Claude Code
+.claude/
+CLAUDE.md
+.codex
+
+# Output folder
+work_dirs/
+work_dirs*
+

@@ -1,0 +1,35 @@
+[project]
+name = "geraf-official"
+version = "0.1.0"
+description = "Lightweight GeRaF training and testing setup"
+requires-python = ">=3.10,<3.12"
+license = { text = "PolyForm-Noncommercial-1.0.0" }
+license-files = ["LICENSE"]
+dependencies = [
+    "torch==2.4.1",
+    "torchvision==0.19.1",
+    "numpy==1.24.4",
+    "ninja",
+    "pyyaml",
+    "tensorboard",
+    "einops",
+    "tqdm",
+    "matplotlib",
+    "scipy",
+    "plotly",
+    "scikit-image",
+    "trimesh",
+    "kaleido",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu121" }]
+torchvision = [{ index = "pytorch-cu121" }]
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true

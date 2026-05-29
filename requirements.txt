@@ -1,0 +1,14 @@
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.24.4
+ninja
+pyyaml
+tensorboard
+einops
+tqdm
+matplotlib
+scipy
+plotly
+scikit-image
+trimesh
+kaleido

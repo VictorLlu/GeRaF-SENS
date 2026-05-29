@@ -1,0 +1,32 @@
+.git
+.gitignore
+
+# Local environments and caches
+.cache/
+.mypy_cache/
+.pytest_cache/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.so
+*.o
+*.a
+*.obj
+
+# Local runtime outputs
+data/
+ckpts/
+work_dirs/
+logs/
+
+# Editor / OS clutter
+.DS_Store
+.idea/
+.vscode/
