@@ -6,7 +6,7 @@
 
 [![arXiv 2605.29097](https://img.shields.io/badge/arXiv-2605.29097-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.29097)
 [![arXiv 2605.29098](https://img.shields.io/badge/arXiv-2605.29098-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.29098)
-[![Project Website](https://img.shields.io/badge/Project-Website-1f7a8c.svg?logo=safari&logoColor=white)](https://ftpsens.epfl.ch/geraf/)
+[![Project Website](https://img.shields.io/badge/Project-Website-1f7a8c.svg?logo=safari&logoColor=white)](https://sens.epfl.ch/research/geraf/)
 
 </div>
 
